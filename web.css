@@ -1,0 +1,83 @@
+body {
+  background-color: #F1F2F6;
+  width: 850px;
+  height: 400px;
+}
+
+.main .box {
+  float: right;
+}
+
+.heading {
+  color: blue;
+  font-family: sans-serif;
+}
+
+.main .page-heading {
+  margin-top: 80px;
+  margin-left: 50px;
+  float: left;
+}
+
+.main .page-heading p {
+  margin-top: -21px;
+}
+
+.box {
+  width: 250px;
+  height: 215px;
+  border: 1px solid #FFFFFF;
+  background-color: #FFFFFF;
+  padding: 2px;
+  border-radius: 5px;
+  margin-top: 60px;
+  margin-right: 60px;
+}
+
+.box .form-list .f-pass {
+  text-decoration: none;
+  margin: 40px;
+}
+
+.form-list {
+  margin: 7px;
+}
+
+.box .form-list .log-in {
+  text-align: center;
+  width: 237px;
+  padding: 6px;
+  border-radius: 4px;
+  border-color: #1777F2;
+  background-color: blue;
+  color: #FFFFFF;
+}
+
+.box .form-list #cre-Account {
+  text-align: center;
+  padding: 8px;
+  margin-left: 50px;
+  width: 140px;
+  background-color: #3FB829;
+  color: #E1F3D7;
+  border: 1px solid #A3DD98;
+  border-radius: 5px;
+}
+
+.box .form-list .list {
+  margin-bottom: 7px;
+  width: 223px;
+  padding: 6px;
+  border: 1px solid #FAFAFA;
+  border-radius: 4px;
+  color: #E1E2E5;
+}
+
+.box p {
+  font-size: 12px;
+  text-align: center;
+  padding: 9px;
+}
+.page2 {
+  font-weight: bold;
+}
